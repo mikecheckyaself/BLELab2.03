@@ -1,0 +1,7 @@
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\dev\psoc4\PSoC4AnalogDevice\psoc4arch.cydsn\psoc4arch.cyprj|ff16eca6-f2f6-4cc6-89b9-94a5af0f1f3d
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|16c1a41f-0d7d-4d01-995c-50f5559848db
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|06fb3493-8dce-4f98-af9b-df4478795783
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|b67ea887-87b5-4ee0-ab9a-b5ec6ce6372d
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|743ea093-0c35-405c-a8c3-2870f53f6708
+C:\Users\Heidi\Documents\PSoC Creator\BLE Lab 2.03\BLE Lab 2.03.cydsn\BLE Lab 2.03.cyprj|82fb750d-39d7-47a7-9ac7-f3c840a5bf4c
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\default\CyReferenceLibrary\CyReferenceLibrary.cylib\CyReferenceLibrary.cyprj|aeedc08e-04ca-4ac9-ae3a-32c5403d5f34
